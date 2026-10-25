@@ -9,6 +9,8 @@ project; the API lives in the [backend](https://github.com/gmc-lanka/backend) re
 integration tests in [tests](https://github.com/gmc-lanka/tests) and the Dockerfile and CI/CD
 pipeline in [infra](https://github.com/gmc-lanka/infra).
 
+**Live site:** [gmc-lanka.lk](https://gmc-lanka.lk/)
+
 **Staging:** _add the staging URL here once deployed_
 
 ## Tech stack
