@@ -1,6 +1,6 @@
 // Shop contact details shown in the footer and on the Contact page. Update these to the real ones.
 export const CONTACT = {
-  email: 'contact@gmclanka.com',
+  email: 'contactgmclanka@gmail.com',
   phone: '+94 11 234 5678',
   addressLines: ['123 Industrial Zone', 'Colombo, Sri Lanka'],
   hours: [
